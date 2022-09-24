@@ -2,7 +2,6 @@
 
 <div align="left">
   <p>- 🔭 Hoje trabalho como fullstack mais voltado ao backend com Java.</p>
-  <p>- 📫 Me encontre aqui: https://www.linkedin.com/in/anderson-gama/</p>
 </div>
 
 <br/>
